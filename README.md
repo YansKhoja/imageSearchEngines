@@ -1,2 +1,2 @@
-# multimedia_search_engines
-moteur de recherche sur des bases de donnée multimédia
+# imageSearchEngines
+moteur de recherche sur des bases d'images
